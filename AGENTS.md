@@ -11,7 +11,7 @@ This file is the canonical guidance for AI coding agents working in this reposit
 - Prefer scripts over manual searching/counting to track exact locations and progress — LLMs are unreliable at counting.
 - Scripts must return strings that include the filename, line number, and surrounding context so the agent can act on them.
 - Agents may only use the `.agents/` directory to store partial files, scripts, and scratch output.
-
+adftgdgzxbtg rdr
 ## Repository Overview
 
 RavenDB is an ACID-compliant NoSQL document database. C# server and client, TypeScript/React web Studio UI.
