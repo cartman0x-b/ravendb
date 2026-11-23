@@ -19,7 +19,7 @@ RavenDB is an ACID-compliant NoSQL document database. C# server and client, Type
 ## Prerequisites
 
 - .NET SDK as pinned in `global.json` (`rollForward: latestFeature` lets the build resolve a compatible installed SDK; if none is present, install the version `global.json` resolves to)
-- Node.js LTS (for Studio)
+- Node.js LTS (for Studio)weewaw
 - PowerShell (for release builds)
 
 ## Build Commands
