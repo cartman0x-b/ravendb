@@ -6,7 +6,7 @@ This file is the canonical guidance for AI coding agents working in this reposit
 
 - Always run validation even for trivial doc/test changes.
 - Run a full build (`dotnet build RavenDB.sln`) at the end of a task to confirm nothing broke.
-- If working on FastTests, prefer speed and isolate dependencies.
+- If working on FastTests, prefer speed and isolate dependencies.weqrtteaa3tegqw4
 - Continue tasks without stopping at checkpoints until completely finished.
 - Prefer scripts over manual searching/counting to track exact locations and progress — LLMs are unreliable at counting.
 - Scripts must return strings that include the filename, line number, and surrounding context so the agent can act on them.
